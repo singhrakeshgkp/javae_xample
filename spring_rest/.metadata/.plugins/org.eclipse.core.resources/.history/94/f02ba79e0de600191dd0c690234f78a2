@@ -1,0 +1,57 @@
+package com.tech.rest.webservices;
+
+
+import java.rmi.StubNotFoundException;
+
+import org.junit.Before;
+import org.junit.Rule;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.test.context.ActiveProfiles;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import com.github.tomakehurst.wiremock.junit.WireMockRule;
+
+import static com.github.tomakehurst.wiremock.client.WireMock.*;
+
+
+@RunWith(SpringRunner.class)
+@AutoConfigureMockMvc
+@SpringBootTest(classes=RestfulWebServicesApplication.class, webEnvironment= SpringBootTest.WebEnvironment.DEFINED_PORT)
+@ActiveProfiles(value="integration")
+public class UserJpaResourceTest {
+
+	@Rule
+	public WireMockRule wireMockRule = new WireMockRule(9998);
+	
+	@Autowired
+	private TestRestTemplate testRestTemplate;
+	
+	
+	@Before
+	public void setUp() {
+		
+		mockRemoteService();
+	}
+
+	@Test
+	public void testRetrieveAllUsers() {
+		
+		
+	}
+
+	private void mockRemoteService() {
+		
+		stubFor(get(urlEqualTo("/all-students"))
+                .willReturn(aResponse()
+                        .withStatus(200)
+                        .withHeader("Content-Type", "application/json")
+                        .withBodyFile("response.json")
+                ));
+	}
+	
+}

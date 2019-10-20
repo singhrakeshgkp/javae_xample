@@ -1,0 +1,11 @@
+package com.tech.security.model;
+
+public class AccessTokenMapper {
+
+	private String access_token;
+	private String id;
+	private String userName;
+	private String name;
+	
+	
+}

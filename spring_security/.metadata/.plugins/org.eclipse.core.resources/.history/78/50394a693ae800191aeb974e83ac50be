@@ -1,0 +1,28 @@
+package com.tech.security;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter;
+
+@Configuration
+
+public class Oauth2Config extends AuthorizationServerConfigurerAdapter {
+
+	@Value("${config.oauth2.clientid}")
+	private String clientId;
+	
+	@Value("${config.oauth2.clientSecret}")
+	private String clientSecret;
+	
+	@Value("${config.oauth2.privateKey}")
+	private String privateKey;
+	
+	@Value("${config.oauth2.publicKey}")
+	private String publicKey;
+	
+	@Autowired
+	private PasswordEncoder passwordEncoder;
+	
+}

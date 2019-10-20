@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: authserver
+    
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.driver
+    url:  "jdbc:mysql://localhost:3306/userservice?autoconnect=true"

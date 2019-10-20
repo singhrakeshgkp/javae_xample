@@ -1,0 +1,54 @@
+package com.tech.security.controller;
+
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class NoteServiceController {
+
+	
+	@PreAuthorize("hasRole(CREATE_NOTE)")
+	@RequestMapping(value="/note", method=RequestMethod.POST)
+	public String createNote() {
+		
+		return "Note has been created successfully";
+	}
+	
+	@PreAuthorize("hasRole(EDIT_NOTE)")
+	@RequestMapping(value="/note", method=RequestMethod.PUT)
+	public String updateNote() {
+		
+		return "Note has been UPDATED successfully";
+	}
+	
+	@RequestMapping(value="/note", method=RequestMethod.DELETE)
+	public String deleteNote() {
+		
+		return "Note has been deleted successfully";
+	}
+	
+	
+	@RequestMapping(value="/note", method=RequestMethod.GET)
+	public String getNote() {
+		
+		return "Note found";
+	}
+	
+	
+	@RequestMapping(value="/note", method=RequestMethod.GET)
+	public String getAllNote() {
+		
+		return "Getting all note";
+	}
+	
+	@RequestMapping(value="/note", method=RequestMethod.GET)
+	public String viewNotesById() {
+		
+		return "View Notes by id";
+	}
+	
+	
+	
+}

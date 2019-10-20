@@ -1,0 +1,18 @@
+package com.tech.security.model;
+
+import org.springframework.security.core.userdetails.User;
+
+public class CustomUserEntity extends User {
+
+	
+	private String id;
+	private String name;
+	
+	public CustomUserEntity(UserEntity userEntity) {
+		
+		super(userEntity.getEmailId(),userEntity.getPassword(),userEntity.getGrantedAuthorityList());
+		this.id = userEntity.getId();
+		this.name = userEntity.getName();
+	}
+
+}

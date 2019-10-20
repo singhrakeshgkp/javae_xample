@@ -1,0 +1,14 @@
+package com.tech.security.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class NoteServiceController {
+
+	
+	@RequestMapping(value="/note", method=RequestMethod.POST)
+	public void createNote() {
+		
+		
+	}
+}

@@ -1,0 +1,5 @@
+package com.tech.security.model;
+
+public class UserEntity {
+
+}

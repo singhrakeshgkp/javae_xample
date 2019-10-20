@@ -1,0 +1,19 @@
+package com.tech.security;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer;
+
+@SpringBootApplication
+@EnableAuthorizationServer
+public class SpringbootOauth2AuthServerApplication {
+
+	public static void main(String[] args) {
+		
+		
+		
+		BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();  
+		boolean status =encoder.matches("PASSWORD", "$2a$10$.4Iu/T2LjwVLJOzsTLaPSuJMRdfe.na5BAe9BxkjSxSWdk8j3Hnoe"); 
+	}
+
+}

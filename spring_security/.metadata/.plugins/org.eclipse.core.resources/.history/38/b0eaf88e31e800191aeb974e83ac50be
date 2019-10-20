@@ -1,0 +1,20 @@
+package com.tech.security.repository;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+
+import com.tech.security.model.UserEntity;
+
+public class UserDetailsImpl implements UserDetailsDao {
+
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+	
+	
+	@Override
+	public UserEntity getUserDetails(String emailId) {
+		
+		return null;
+	}
+
+}

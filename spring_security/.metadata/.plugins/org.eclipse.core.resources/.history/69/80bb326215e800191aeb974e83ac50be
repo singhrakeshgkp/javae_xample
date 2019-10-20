@@ -1,0 +1,13 @@
+package com.tech.security;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootOauth2AuthServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootOauth2AuthServerApplication.class, args);
+	}
+
+}

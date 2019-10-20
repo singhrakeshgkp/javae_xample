@@ -1,0 +1,14 @@
+package com.tech.security.repository;
+
+import com.tech.security.model.UserEntity;
+
+public class UserDetailsImpl implements UserDetailsDao {
+
+	
+	@Override
+	public UserEntity getUserDetails(String emailId) {
+		
+		return null;
+	}
+
+}

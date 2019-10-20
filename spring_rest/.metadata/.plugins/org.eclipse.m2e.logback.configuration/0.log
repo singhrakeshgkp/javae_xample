@@ -1,0 +1,570 @@
+2019-08-26 20:43:52,975 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-26 21:28:18,768 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-26 21:37:01,587 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 21:37:17,158 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restful-web-services/src/main/java
+2019-08-26 21:37:17,159 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /restful-web-services/src/main/resources
+2019-08-26 21:37:17,160 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /restful-web-services/src/main/resources
+2019-08-26 21:37:17,162 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restful-web-services/src/test/java
+2019-08-26 21:37:20,720 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 41 sec
+2019-08-26 21:37:38,690 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:37:38,712 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 21:37:38,774 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 21:37:38,963 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:37:38,963 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 21:43:01,710 [Worker-16: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2019-08-26 21:43:02,187 [Worker-16: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2019-08-26 21:43:05,124 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 21:43:13,399 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:43:13,406 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 21:43:13,407 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 21:43:13,412 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:43:13,413 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 21:44:14,524 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 21:44:20,051 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:44:20,057 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 21:44:20,057 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 21:44:20,064 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:44:20,064 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 21:44:59,935 [Worker-15: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services
+2019-08-26 21:44:59,938 [Worker-15: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-08-26 21:48:44,760 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:48:44,778 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 21:48:44,823 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 21:48:44,830 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 21:48:44,830 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 22:21:44,364 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 22:21:54,827 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:21:54,833 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 22:21:54,833 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 22:21:54,837 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:21:54,838 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 22:22:02,151 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:22:02,174 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 22:22:02,231 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 22:22:02,332 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:22:02,333 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 22:43:06,581 [Worker-27: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 22:43:11,036 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:43:11,041 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 22:43:11,041 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 22:43:11,044 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:43:11,044 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 22:43:58,377 [Worker-27: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services
+2019-08-26 22:43:58,377 [Worker-27: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-08-26 22:45:12,393 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:45:12,407 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 22:45:12,445 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 22:45:12,452 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:45:12,453 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 22:59:52,547 [Worker-30: Launching restful-web-services - RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:59:52,625 [Worker-30: Launching restful-web-services - RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 22:59:52,636 [Worker-30: Launching restful-web-services - RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 22:59:52,640 [Worker-30: Launching restful-web-services - RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 22:59:52,640 [Worker-30: Launching restful-web-services - RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:00:26,747 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:00:26,747 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:00:26,755 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:00:26,758 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:00:26,758 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:02:41,984 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:02:41,984 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:02:41,992 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:02:41,995 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:02:41,995 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:03:39,457 [Worker-32: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2019-08-26 23:05:58,623 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:05:58,637 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:05:58,650 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 23:05:58,657 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:05:58,658 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:06:16,086 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:06:16,087 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:06:16,100 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:06:16,102 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:06:16,103 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:06:45,695 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:06:45,709 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:06:45,721 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 23:06:45,784 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:06:45,784 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:06:53,799 [Worker-32: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services
+2019-08-26 23:06:53,799 [Worker-32: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-08-26 23:08:05,076 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:08:05,089 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:08:05,100 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 23:08:05,107 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:08:05,107 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:22:27,636 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-08-26 23:22:35,343 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:22:35,351 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:22:35,352 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:22:35,355 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:22:35,355 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:23:58,346 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:23:58,346 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:23:58,346 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 23:23:58,348 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:23:58,349 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:24:18,951 [Worker-29: Launching Executing clean in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services
+2019-08-26 23:24:18,951 [Worker-29: Launching Executing clean in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-08-26 23:24:27,039 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:24:27,043 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:24:27,098 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 23:24:27,195 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:24:27,195 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-08-26 23:25:17,777 [Worker-29: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services
+2019-08-26 23:25:17,777 [Worker-29: Launching Executing install in C__Users_rakesh-sin_Downloads_study_material_workspace_23082019_spring_rest_restful-web-services] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-08-26 23:26:37,474 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:26:37,485 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-26 23:26:37,495 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-26 23:26:37,500 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-26 23:26:37,501 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 13:42:49,145 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-18 13:43:21,707 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 13:43:21,757 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 13:43:21,822 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-18 13:43:21,923 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 13:43:21,923 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 15:30:18,927 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-09-18 15:30:28,581 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:30:28,598 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 15:30:28,598 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 15:30:28,603 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:30:28,604 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 15:31:57,730 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:31:57,740 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 15:31:57,782 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 15:31:57,785 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:31:57,785 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 15:36:04,224 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:36:04,224 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 15:36:04,290 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 15:36:04,307 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:36:04,308 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 15:37:58,608 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:37:58,609 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 15:37:58,617 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 15:37:58,619 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 15:37:58,620 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-09-18 16:10:35,998 [Worker-85: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 16:10:44,888 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:10:44,890 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 16:10:44,903 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-18 16:10:44,979 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:10:44,980 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 16:10:52,149 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:10:52,166 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 16:10:52,177 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-18 16:10:52,193 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:10:52,194 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 16:11:57,898 [Worker-88: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services2WithAOPAndJunit:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 16:12:03,603 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:12:03,608 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 16:12:03,609 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 16:12:03,614 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 16:12:03,614 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 17:02:26,136 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services2WithAOPAndJunit:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 17:02:31,266 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:02:31,272 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:02:31,273 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:02:31,277 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:02:31,277 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 17:02:37,690 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services2WithAOPAndJunit:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 17:02:42,581 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:02:42,598 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-18 17:02:42,634 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-09-18 17:02:42,702 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:02:42,702 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 17:07:44,232 [Worker-115: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services2WithAOPAndJunit:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 17:07:49,593 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:07:49,599 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:07:49,600 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:07:49,604 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:07:49,604 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-09-18 17:07:53,989 [Worker-115: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services2WithAOPAndJunit:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\pom.xml.
+2019-09-18 17:07:59,415 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:07:59,422 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:07:59,422 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-18 17:07:59,426 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-18 17:07:59,426 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-10-02 15:37:54,452 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-02 15:38:59,920 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:38:59,959 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 15:39:00,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-02 15:39:00,110 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:39:00,110 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services2WithAOPAndJunit\src\test\resources
+2019-10-02 15:39:25,867 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-10-02 15:39:26,498 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-10-02 15:39:36,761 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:39:36,762 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 15:39:36,809 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-02 15:39:36,952 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:39:36,952 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-10-02 15:39:43,172 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\pom.xml.
+2019-10-02 15:39:57,568 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:39:57,571 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:39:57,572 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:39:57,575 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:39:57,575 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services\src\test\resources
+2019-10-02 15:40:44,133 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\pom.xml.
+2019-10-02 15:40:54,627 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:40:54,628 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 15:40:54,658 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-02 15:40:54,774 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:40:54,775 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:41:10,019 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:41:10,050 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 15:41:10,071 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-02 15:41:10,175 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:41:10,175 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:41:55,952 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\pom.xml.
+2019-10-02 15:42:07,252 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:42:07,258 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:42:07,259 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:42:07,263 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:42:07,263 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:42:15,871 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services-with-docker:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\pom.xml.
+2019-10-02 15:42:26,706 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:42:26,711 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:42:26,711 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:42:26,715 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:42:26,715 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:44:01,007 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:44:01,008 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:44:01,009 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:44:01,040 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:44:01,042 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:44:33,260 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:44:33,261 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:44:33,261 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:44:33,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:44:33,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:45:05,260 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:45:05,261 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:45:05,261 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:45:05,263 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:45:05,263 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:46:27,069 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:46:27,069 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:46:27,069 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:46:27,084 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:46:27,084 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:46:48,182 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:46:48,182 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:46:48,182 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:46:48,185 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:46:48,185 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:49:10,720 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-02 15:49:52,488 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:49:52,498 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 15:49:52,563 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-02 15:49:52,689 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:49:52,689 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:50:22,622 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:50:22,638 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:50:22,638 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:50:22,641 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:50:22,642 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:50:40,941 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:50:40,941 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:50:40,942 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:50:40,945 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:50:40,945 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:52:55,974 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:52:55,974 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:52:55,975 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:52:55,978 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:52:55,978 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:53:24,785 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:24,786 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:24,786 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:24,789 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:24,790 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:53:37,537 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:37,538 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:37,538 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:37,540 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:37,541 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:53:53,466 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:53,467 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:53,468 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:53,471 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:53,472 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:53:58,607 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:58,608 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:58,608 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:53:58,616 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:53:58,616 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:54:43,011 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:54:43,012 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:54:43,013 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:54:43,016 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:54:43,016 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-02 15:55:16,419 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:55:16,420 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:55:16,421 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 15:55:16,424 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 15:55:16,427 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-03 23:21:33,614 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-03 23:22:44,367 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:22:44,432 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:22:44,602 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-03 23:22:44,829 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:22:44,829 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restful-web-services-with-docker\src\test\resources
+2019-10-03 23:26:15,024 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restful-web-services-with-docker:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\pom.xml.
+2019-10-03 23:26:28,409 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:26:28,411 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:26:28,449 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-03 23:26:28,626 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:26:28,626 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:26:45,798 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:26:45,840 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:26:45,864 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-03 23:26:46,034 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:26:46,035 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:29:11,605 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restclient-with-wiremock:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\pom.xml.
+2019-10-03 23:29:26,106 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:29:26,111 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:29:26,112 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:29:26,119 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:29:26,120 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:29:37,822 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restclient-with-wiremock:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\pom.xml.
+2019-10-03 23:29:53,101 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:29:53,108 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:29:53,108 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:29:53,112 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:29:53,114 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:30:37,600 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.pom
+2019-10-03 23:30:38,177 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:restclient-with-wiremock:0.0.1-SNAPSHOT @ C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\pom.xml.
+2019-10-03 23:30:39,802 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.pom
+2019-10-03 23:30:40,077 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.pom
+2019-10-03 23:30:40,200 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.pom
+2019-10-03 23:30:40,399 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.pom
+2019-10-03 23:30:40,675 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.pom
+2019-10-03 23:30:40,831 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.pom
+2019-10-03 23:30:41,073 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.pom
+2019-10-03 23:30:41,293 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.pom
+2019-10-03 23:30:41,363 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.pom
+2019-10-03 23:30:41,585 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.pom
+2019-10-03 23:30:41,783 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.pom
+2019-10-03 23:30:42,657 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/google/guava/guava/10.0/guava-10.0.pom
+2019-10-03 23:30:42,958 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0/guava-10.0.pom
+2019-10-03 23:30:43,237 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0/guava-10.0.pom
+2019-10-03 23:30:43,315 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/google/guava/guava-parent/10.0/guava-parent-10.0.pom
+2019-10-03 23:30:43,531 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0/guava-parent-10.0.pom
+2019-10-03 23:30:43,855 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0/guava-parent-10.0.pom
+2019-10-03 23:30:44,115 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.pom
+2019-10-03 23:30:44,355 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.pom
+2019-10-03 23:30:44,556 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.pom
+2019-10-03 23:30:44,629 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2019-10-03 23:30:44,863 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2019-10-03 23:30:45,181 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2019-10-03 23:30:45,462 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:45,479 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:45,667 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:45,927 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:46,477 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:46,739 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.pom
+2019-10-03 23:30:50,455 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:50,456 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:50,479 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:50,484 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:50,498 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:50,501 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:50,516 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:30:50,519 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:30:50,532 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:30:50,536 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:30:50,549 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:30:50,552 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:30:50,862 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:50,901 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:51,902 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:52,175 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:52,480 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18.jar
+2019-10-03 23:30:52,589 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:52,929 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:53,109 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:54,137 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3.jar
+2019-10-03 23:30:54,652 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:56,819 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:56,865 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+2019-10-03 23:30:57,012 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:30:57,334 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:31:00,488 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:31:00,742 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:31:01,176 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:31:01,550 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:31:02,123 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:31:02,151 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar
+2019-10-03 23:31:02,375 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:31:02,979 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar
+2019-10-03 23:31:03,191 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:31:03,860 [Worker-17: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar
+2019-10-03 23:31:14,895 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:31:14,901 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:31:14,902 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:31:14,907 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:31:14,907 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:31:20,968 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/com/github/tomakehurst/wiremock/1.18/wiremock-1.18-sources.jar
+2019-10-03 23:31:22,313 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18-sources.jar
+2019-10-03 23:31:22,977 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/tomakehurst/wiremock/1.18/wiremock-1.18-sources.jar
+2019-10-03 23:31:23,474 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.tomakehurst:wiremock:1.18
+2019-10-03 23:31:23,548 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3-sources.jar
+2019-10-03 23:31:23,883 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3-sources.jar
+2019-10-03 23:31:24,201 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.3/jopt-simple-4.3-sources.jar
+2019-10-03 23:31:24,578 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.jopt-simple:jopt-simple:4.3
+2019-10-03 23:31:24,654 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5-sources.jar
+2019-10-03 23:31:24,962 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5-sources.jar
+2019-10-03 23:31:27,196 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5-sources.jar
+2019-10-03 23:31:27,597 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jackson:jackson-mapper-asl:1.8.5
+2019-10-03 23:31:27,655 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26-sources.jar
+2019-10-03 23:31:27,862 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26-sources.jar
+2019-10-03 23:31:29,778 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26-sources.jar
+2019-10-03 23:31:30,182 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mortbay.jetty:jetty:6.1.26
+2019-10-03 23:31:30,232 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26-sources.jar
+2019-10-03 23:31:30,418 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26-sources.jar
+2019-10-03 23:31:31,350 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26-sources.jar
+2019-10-03 23:31:31,914 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mortbay.jetty:jetty-util:6.1.26
+2019-10-03 23:31:31,967 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar
+2019-10-03 23:31:32,324 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar
+2019-10-03 23:31:32,901 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar
+2019-10-03 23:31:33,231 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mortbay.jetty:servlet-api:2.5-20081211
+2019-10-03 23:31:33,284 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://digitalrepo.prodrs.wuintranet.net/repository/wudigital/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5-sources.jar
+2019-10-03 23:31:33,530 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5-sources.jar
+2019-10-03 23:31:34,094 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5-sources.jar
+2019-10-03 23:31:34,433 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jackson:jackson-core-asl:1.8.5
+2019-10-03 23:31:41,224 [Worker-21: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.3.v20180609-1554.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2019-10-03 23:32:02,910 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:32:02,931 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:32:02,984 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-03 23:32:03,156 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:32:03,156 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:32:43,359 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:32:43,420 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:32:43,447 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-10-03 23:32:43,460 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:32:43,460 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:35:26,835 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:35:26,840 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:35:26,873 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:35:26,876 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:35:26,877 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:35:32,917 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:35:32,919 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:35:32,954 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:35:32,957 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:35:32,957 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:37:12,204 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:37:12,205 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:37:12,224 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:37:12,228 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:37:12,229 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:37:42,710 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:37:42,711 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 23:37:42,729 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:37:42,730 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:37:42,730 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:40:27,814 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:40:27,814 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:40:27,815 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:40:27,821 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:40:27,821 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:51:17,929 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:51:17,929 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:51:17,929 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:51:17,933 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:51:17,933 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:51:38,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:51:38,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:51:38,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:51:38,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:51:38,835 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:52:21,860 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:52:21,861 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:52:21,861 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:52:21,871 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:52:21,871 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:57:30,012 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:57:30,012 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:57:30,012 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:57:30,012 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:57:30,016 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-03 23:59:57,202 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:59:57,202 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:59:57,202 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 23:59:57,204 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 23:59:57,204 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:00:28,501 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:00:28,505 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:00:28,505 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:00:28,509 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:00:28,509 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:01:50,559 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:01:50,560 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:01:50,561 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:01:50,565 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:01:50,565 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:04:17,528 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:04:17,532 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:04:17,532 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:04:17,534 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:04:17,534 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:04:53,636 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:04:53,636 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:04:53,636 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:04:53,638 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:04:53,639 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:05:29,472 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:05:29,472 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:05:29,474 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:05:29,476 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:05:29,477 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:07:23,230 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:07:23,231 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:07:23,232 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:07:23,233 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:07:23,233 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources
+2019-10-04 00:13:02,370 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:13:02,370 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:13:02,370 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-04 00:13:02,374 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-04 00:13:02,374 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rakesh-sin\Downloads\study_material\workspace\23082019\spring_rest\restclient-with-wiremock\src\test\resources

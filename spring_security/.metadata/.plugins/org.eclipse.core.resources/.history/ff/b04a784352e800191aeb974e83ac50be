@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: authserver
+    
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:  jdbc:mysql://localhost:3306/userservice?autoconnect=true"
+    username: root
+    password: 
+    
+    
+
+config:
+  oauth2:
+    clientid: rsingh
+    clientSecret: rsingh123
+    accesstoken_validity: 1
+    refreshtoken_validity:  30
+    privateKey: -----BEGIN RSA PRIVATE KEY-----MIIEowIBAAKCAQEA5w5A0n1KIE0eIutIbtZx5JrcxrRpN8uMsx/w08WSJ8NaWmprLvBdSJAKguK701bdv0S1yU5Bthro5MubrZ7OFE0VNQSlfHQ6nQJ45FgASCyGisH01m9k/t3cO2k1sBZ6/h788GK/jvbs3lZ/6zqxPayGv3thF2NgbD8EcJIvrToh+GiUQzYgBvXscK+0cElDWzBVtBpF2wAicOza07SRURDrlooW//5VGoZxOKnajXVCkrJ8udm4idAtVvL3Ic1wegAhnX4atXzj+tyxQkcGjKiKT6w5ic1PKuwrgx7VZu0WM4ATzm3ju+WHfEr8jCbZ2kLS7MV2zYbgSKz2HgkaQwIDAQABAoIBAEcis0BaxISXWYzkpUNCkIQSTaB7kN1VtLa9QbbhX/MQCPRHSUKFTCL3/dR4G92gI9ssO0+D4WVAea1fJknY15eWd83/5TcgzZ7jUPb0RPnzg2Sa/Fc8qnpxMcm0xYu2EB3GypbzwAgy65A0T2PLiR/0yvOO98BsnxYUfLhvuW/6HQBAi8jBUuS78n6ezSR0JzVP+E/lkbP+NLjE75HaE9AiNKYuy8d8K6PtDRzDoi+KzhChI8Wc0qbZb83QBK9J1K5moY6pYcpFttM5s0aSwDH7tmdHmbKn63xyj0TD3zR1rnlW19TowRmWpB0bo3ypjDNnkeAKq3cerlDc0SHlVtECgYEA+xSn68DkLc27L0HPyZircMc/kzZBcSshzMhIuEPC3mg+U/bZRKciRzaX3q9mJ5d383SrwRBYSRovCEuZyuVZ2oddq3gXCQ6yG67iVf8c/2GYkmqVF7WDnCa8B3v87eWnalvOsv5w7j3xMSFz4bV7aE5ccZ/+vBoP3PpTRc7AeUkCgYEA65UobjsGxqP5I/9EQTrK6AOkDfj1F2eP91nuUNZKD3NyxwUpUT79bx12QRvZTO/PiWltQeN7HQvTqK0bMx8mJysdyV+w1F/PhsC5P925vqLMKQjU4872wgVxjKwIakKlpFgGa/fVMg8N7qYOYK47x9ySQcnex12076VZKyfh4ysCgYAfw4422hFD5ioPIXFLHMBbpSla01tWGNHO2WuxvAjUIDX6Y1k7QTWp8rMl3eS7j4MCTrlH1GyG2wQmNYJAU+GZLtTf03J+l9hafjZuELc3a75kj41LEZCT2aah/8KQyiPy5ahxppTc3wM7ZvMFE/OHz5oMWeRdIaLuHtEYHL7m2QKBgQDad/COiN63x8h7wXYip8sTboztCDsCAWBZGmUPQipcOcvvFLJETg3oxYGsz46s8peb7tELkVHSle0rN51Jw1E2cZ2l6b+qs09Yv9ELkSt3xrFePHpw6LWdKD8tHTyQjk3eImOSLLrhOWTKM+SRdAKsTbi0meinKhdpRgVzKAErEQKBgEuNgFJ37qnyApae7UZTwmtNbLvJAm9htaU7k1T5gMdzizjtU84dF8c3cD71QNGKTotPy8cQz1bjq2JzpoCdiZasGaQ+I1TuDUj8BntMUgw/YHG+n8dPbPSGDTIGD8e2WtzWrta4LG5b85QVSBginl+IO++3AaRNqYp/2GfWcfYe-----END RSA PRIVATE KEY-----
+    publicKey:  -----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5w5A0n1KIE0eIutIbtZx5JrcxrRpN8uMsx/w08WSJ8NaWmprLvBdSJAKguK701bdv0S1yU5Bthro5MubrZ7OFE0VNQSlfHQ6nQJ45FgASCyGisH01m9k/t3cO2k1sBZ6/h788GK/jvbs3lZ/6zqxPayGv3thF2NgbD8EcJIvrToh+GiUQzYgBvXscK+0cElDWzBVtBpF2wAicOza07SRURDrlooW//5VGoZxOKnajXVCkrJ8udm4idAtVvL3Ic1wegAhnX4atXzj+tyxQkcGjKiKT6w5ic1PKuwrgx7VZu0WM4ATzm3ju+WHfEr8jCbZ2kLS7MV2zYbgSKz2HgkaQwIDAQAB-----END PUBLIC KEY-----

@@ -1,0 +1,5 @@
+package com.tech.security.repository;
+
+public interface UserDetailsDao {
+
+}

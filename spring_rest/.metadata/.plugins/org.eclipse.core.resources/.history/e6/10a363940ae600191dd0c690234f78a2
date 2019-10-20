@@ -1,0 +1,6 @@
+package com.tech.rest.webservices;
+
+
+public class UserJpaResourceTest {
+
+}

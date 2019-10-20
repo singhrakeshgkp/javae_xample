@@ -1,0 +1,37 @@
+package com.tech.security.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class NoteServiceController {
+
+	
+	@RequestMapping(value="/note", method=RequestMethod.POST)
+	public String createNote() {
+		
+		return "Note has been created successfully";
+	}
+	
+	@RequestMapping(value="/note", method=RequestMethod.PUT)
+	public String updateNote() {
+		
+		return "Note has been UPDATED successfully";
+	}
+	
+	@RequestMapping(value="/note", method=RequestMethod.DELETE)
+	public String deleteNote() {
+		
+		return "Note has been deleted successfully";
+	}
+	
+	
+	@RequestMapping(value="/note", method=RequestMethod.GET)
+	public String getNote() {
+		
+		return "Note has been deleted successfully";
+	}
+	
+	
+}

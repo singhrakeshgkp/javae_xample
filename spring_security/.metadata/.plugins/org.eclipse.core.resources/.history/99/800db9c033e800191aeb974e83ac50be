@@ -1,0 +1,33 @@
+package com.tech.security.repository;
+
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.security.core.GrantedAuthority;import com.tech.security.model.UserEntity;
+
+public class UserDetailsImpl implements UserDetailsDao {
+
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+	
+	
+	@Override
+	public UserEntity getUserDetails(String emailId) {
+		
+		Collection<GrantedAuthority> grantedAuthorityList = new ArrayList<>();
+		List<UserEntity> list = jdbcTemplate.query("select * from user where email_id=?",new String[] {emailId},(ResultSet rs, int rowNumber)->{
+			
+		UserEntity user = new UserEntity();
+		user.setEmailId(emailId);
+		user.setId(rs.getString("id"));
+		user.setName(rs.getString("name"));
+		return user;
+		});
+		return null;
+	}
+
+}

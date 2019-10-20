@@ -1,0 +1,6 @@
+package com.tech.security;
+
+
+public class Oauth2Config {
+
+}
